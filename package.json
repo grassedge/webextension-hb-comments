@@ -1,0 +1,23 @@
+{
+  "name": "webextension-hb-comments",
+  "version": "1.0.0",
+  "description": "read hatebu comments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grassedge/webextension-hb-comments.git"
+  },
+  "keywords": [
+    "hatena-bookmark",
+    "viewer"
+  ],
+  "author": "grassedge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grassedge/webextension-hb-comments/issues"
+  },
+  "homepage": "https://github.com/grassedge/webextension-hb-comments#readme"
+}
