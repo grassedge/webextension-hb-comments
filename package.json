@@ -5,7 +5,7 @@
   "scripts": {
     "tsc": "tsc",
     "tsc:watch": "tsc -w",
-    "webpack:build": "webpack --config webpack.config.js",
+    "webpack:build": "webpack --mode production --config webpack.config.js",
     "webpack:watch": "webpack --watch --config webpack.config.js",
     "webpack:start": "webpack-dev-server",
     "build": "run-s tsc webpack:build",
